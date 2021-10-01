@@ -1,8 +1,8 @@
 from gtts import gTTS
 import os
 
-
-textt = input("Enter Text : ")
+# Text input and it convert to give Voice
+textt = input("Enter Text :")
 
 language = 'en'
 
